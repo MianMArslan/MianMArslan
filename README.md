@@ -20,7 +20,7 @@ Hi there! I'm arslan, a software engineer with experience in nodejs, reactjs, an
 
 ## 💻 Skills
 
-- Nodejs, Nestjs, Angular 11+
+- Nodejs, Nestjs, Angular 11+, Firebase, JWT, Nodemailer
 - Git, CI/CD 
 
 ## 🎓 Education
