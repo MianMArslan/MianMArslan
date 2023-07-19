@@ -1,14 +1,14 @@
-![Header](./github-header-image.png)
-# 💻 Mian M. Arslan, Software Engineer
+## Hi, I am Arslan :wave: :technologist:	
+![Header](./github-header.png)
+
+A software engineer with experience in node js, react js, and angular 11+. I love to explore advancement in computer science. I have a passion for developing software that solves real-world problems and enhances people's lives.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/mian-muhammad-arslan-5aa9191a6/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000.svg?style=flat-square&logo=github)](https://github.com/MianMArslan)
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1.svg?style=flat-square&logo=twitter&colorB=1ca0f1)](https://twitter.com/Mian_M_Arslan)
 
 
-A software engineer with experience in node js, react js, and angular 11+. I have a passion for developing software that solves real-world problems and enhances people's lives.
-
-## 🚀 Professional Experience
+## :rocket:	 Professional Experience
 
 - **iDevNerds**, *Software Engineer*, 2022-Present
   - Requirement Analysis
@@ -23,10 +23,10 @@ A software engineer with experience in node js, react js, and angular 11+. I hav
 
 - BS Software Engineering, The Superior College, Lahore, 2022
 
-## 💻 Languages and Frameworks
+## :pen: Languages and Frameworks
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,angular,react,nextjs,nestjs,express,nodejs)](https://skillicons.dev)
 
-## 💻 Tools
+## :bulb: Tools
 [![My Skills](https://skillicons.dev/icons?i=materialui,vscode,aws,git,github,firebase,linux,bash,nginx,postman)](https://skillicons.dev)
 
 ## 💻 Databases and ORMs
@@ -40,7 +40,7 @@ A software engineer with experience in node js, react js, and angular 11+. I hav
 - Taxeezy: The easiest and most cost-effective solution to your tax return. Using the system, the input required can take just a few minutes to file a tax            return in the UK. The application platform asks different questions according to your profession and wealth and files the return intelligently.
            It's built on Next js, Node JS used Mongoose as ORM with MongoDB. Mainly I worked on the backend module.
 
-## 📧 My GitHub History!
+## :incoming_envelope: My GitHub History!
 [![Arslan's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MianMArslan&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Arslan's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=MianMArslan&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MianMArslan&layout=donut&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
