@@ -70,8 +70,6 @@ A software engineer with experience in node js, react js, and angular 11+. I lov
 
 ## :incoming_envelope: My GitHub History!
 
-## GitHub & Stats
-
 - Profile: [MianMArslan](https://github.com/MianMArslan)
 - Summary: Active open-source contributor focused on backend systems, cloud infra and TypeScript.
 
