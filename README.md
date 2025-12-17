@@ -70,14 +70,17 @@ A software engineer with experience in node js, react js, and angular 11+. I lov
 
 ## :incoming_envelope: My GitHub History!
 
-[![Arslan's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MianMArslan&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Arslan's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=MianMArslan&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MianMArslan&layout=donut&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MianMArslan&layout=donut&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+## GitHub & Stats
+
+- Profile: [MianMArslan](https://github.com/MianMArslan)
+- Summary: Active open-source contributor focused on backend systems, cloud infra and TypeScript.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MianMArslan&stats_format=bytes&layout=compact&theme=dark)
 
 ## 📧 Contact
 
 - Email: mian.m.arslan@hotmail.com
-- Twitter: Mian_M_Arslan
+- LinkedIn: https://www.linkedin.com/in/mian-muhammad-arslan-5aa9191a6/
+- Twitter: https://twitter.com/Mian_M_Arslan
 
 ⭐️ From arslan with 💖.
