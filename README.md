@@ -32,9 +32,21 @@ A software engineer with experience in node js, react js, and angular 11+. I lov
 <a href="https://www.credly.com/badges/33b373c4-7924-4513-a118-85d0a5763ded/public_url" target="_blank" rel="noopener noreferrer">
   <img src="https://images.credly.com/size/220x220/images/3b1b42e6-dfc2-492b-90df-8058096cb93d/blob" alt="AWS Certification 2" width="150" />
 </a>
+<a href="https://www.credly.com/badges/a164a851-309c-4acd-85f5-e0556f431325/public_url" target="_blank" rel="noopener noreferrer">
+  <img src="https://images.credly.com/size/680x680/images/7b08cc0e-064b-407d-b70e-323509c3e474/blob" alt="AWS Certification 3" width="150" />
+</a>
+<a href="https://www.credly.com/badges/3258bc9e-3d90-4f45-8e29-76f662a1f924/public_url" target="_blank" rel="noopener noreferrer">
+  <img src="https://images.credly.com/size/220x220/images/f5095707-7683-4886-940c-3e8e4a2085ca/blob" alt="AWS Certification 4" width="150" />
+</a>
+<a href="https://www.credly.com/badges/bd05e8a6-c31b-4525-8654-d056fb730bc1/public_url" target="_blank" rel="noopener noreferrer">
+  <img src="https://images.credly.com/size/220x220/images/a08cf90b-9838-4f6c-82bd-8db85fb89dd5/blob" alt="AWS Certification 2" width="150" />
+</a>
 
 - AWS Educate Cloud Computing 101 — Trained — Issued: 2025-12
 - AWS Educate Getting Started With Storage — Trained — Issued: 2025-12
+- AWS Educate Getting Started With Compute — Trained — Issued: 2025-12
+- AWS Educate Getting Started With Networking — Trained — Issued: 2025-12
+- AWS Educate Getting Started With DataBase — Trained — Issued: 2025-12
 
 ## :pen: Languages and Frameworks
 
