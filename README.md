@@ -78,7 +78,7 @@ A software engineer with experience in node js, react js, and angular 11+. I lov
 ## 📧 Contact
 
 - Email: mian.m.arslan@hotmail.com
-- LinkedIn: https://www.linkedin.com/in/mian-muhammad-arslan-5aa9191a6/
+- LinkedIn: https://www.linkedin.com/in/mian-m-arslan
 - Twitter: https://twitter.com/Mian_M_Arslan
 
 ⭐️ From arslan with 💖.
