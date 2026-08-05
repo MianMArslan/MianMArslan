@@ -277,7 +277,7 @@ Assisted faculty in delivering software engineering and requirements engineering
 
 ## 🎓 Education
 
-**BS, Software Engineering** — Superior University, Lahore · **2018 – 2022** · CGPA **3.19 / 4.0**
+**BS, Software Engineering** — Superior University, Lahore · **2018 – 2022**
 
 <sub>Core CS fundamentals: data structures, algorithms, software design patterns, database systems & web development. Final year project: a full-stack inventory management system.</sub>
 
